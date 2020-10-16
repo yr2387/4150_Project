@@ -1,0 +1,12 @@
+<html>
+<h1>
+	<center>Sighting Update</center>
+</h1>
+<body>
+<form method="post">{% csrf_token %}
+	{{form.as_p}}
+<input type="submit" name="Submit">
+</form>
+</body>
+</html>
+
