@@ -8,8 +8,6 @@ A web application based on Django is developned using python to manage data stor
 
 Group Name: Project Team Illini
 
-Section: 
-
 Contributors: Yang Rong, Zheyuan Hu
 
 UINs: [yr2387, zh2447]
